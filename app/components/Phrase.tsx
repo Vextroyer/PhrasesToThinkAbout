@@ -4,10 +4,10 @@ interface Props {
     phrase: string
 }
 
-export default function Phrase(props: Props){
+export default function Phrase(props: Props) {
     return (
         <>
-        <p>{props.phrase}</p>
+            <p>{props.phrase}</p>
         </>
     );
 }

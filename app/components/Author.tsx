@@ -4,10 +4,10 @@ interface Props {
     author: string
 }
 
-export default function Author(props: Props){
+export default function Author(props: Props) {
     return (
         <>
-        <p>{props.author}</p>
+            <p>{props.author}</p>
         </>
     );
 }
