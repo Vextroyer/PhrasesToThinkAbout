@@ -11,7 +11,7 @@ sus reflexiones y guardarlas.
 Inspire yourself to think and write by reflecting on quotes.
 
 The website follows a minimalist design and introduce visitors to quotes
-on diverse subjects with the purpose of guiding him to reflection.
+on diverse subjects with the purpose of guiding them to reflection.
 
 A page is provided where the user can write his reflections and save
 them.
